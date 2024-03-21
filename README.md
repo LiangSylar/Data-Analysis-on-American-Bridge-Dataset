@@ -35,4 +35,4 @@ For question 3, we recognized 3 major trends in the number of new bridges of dif
   <figcaption>The yearly number of new bridges in different main span materials with 3 dominant trends.</figcaption>
 </figure>
  
-* This is a collaboration project. Many thanks to my incredible teammates: Run Liu, Zhixuan Liu, and Chenang Li. Wish them all the best for their feature endeavors!
+* This is a collaboration project. Many thanks to my incredible teammates: Run Liu, Zhixuan Liu, and Chenang Li. Wish them all the best for their future endeavors!
